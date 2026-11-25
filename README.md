@@ -1,7 +1,5 @@
 # stm32f4-engine-cooling-controller
-Bare-metal STM32F4 engine thermal management firmware featuring a hysteresis state machine, sensor fault fail-safe, PWM fan control, and non-blocking HAL_GetTick scheduling.
-
-Bare-metal C firmware for an STM32F4 microcontroller implementing closed-loop engine thermal management, sensor fault protection, PWM cooling fan actuation, and real-time UART telemetry.
+STM32 HAL STM32F4 engine thermal management firmware featuring a hysteresis state machine, sensor fault fail-safe, PWM fan control, and non-blocking HAL_GetTick scheduling.
 
 ## System Architecture
 
